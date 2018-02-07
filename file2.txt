@@ -1,1 +1,2 @@
 local merge file
+added a new line to verify conflict
